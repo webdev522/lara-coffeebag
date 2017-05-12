@@ -1,0 +1,25 @@
+.btn-machine {
+    margin: 15px;
+    width: 250px;
+    font-size: 40px;
+}
+
+.btn-machineproduct {
+    margin: 15px;
+    width: 200px;
+    font-size: 30px;
+}
+
+.help-block {
+    color: #a94442;
+}
+
+#avg-chart {
+    width: 100%;
+    height: 300px;
+}
+
+#average {
+    color: #0000bb;
+    text-align: left;
+}
